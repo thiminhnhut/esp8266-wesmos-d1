@@ -1,4 +1,8 @@
 // Atom Editor with PlatformIO
+/*
+ 1. https://gist.github.com/anoochit/526765176805cf19bee7
+ 2. http://usemodj.com/2016/08/04/esp8266-wifi-smartconfig/
+*/
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
